@@ -12,7 +12,7 @@ namespace core_api.Controllers
     {
         private static readonly Random generator = new Random();
 
-        // GET api/values/3.5/10/100
+        // GET api/values/3.5?skip=10&iterations=100
         [HttpGet("{r}")]
         public ActionResult<float[]> Get(
             float r,
