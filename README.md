@@ -1,5 +1,7 @@
 # Angular with .NET
 
+Read the related article series (includes video of a live presentation): [Get started with Angular on .NET Core 2.1](https://blog.jeremylikness.com/get-started-with-angular-on-net-core-2-1-part-one-2effcfe8fae9).
+
 These code examples demonstrate various ways [Angular](https://angular.io) integrates with [.NET Core](https://jlik.me/d8e). Read the full documentation for the [.NET Core Angular template](https://jlik.me/d75).
 
 ## `static-app`
